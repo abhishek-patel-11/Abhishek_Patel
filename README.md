@@ -10,7 +10,7 @@ I’m a **final-year B.Tech student** specializing in **Computer Science and Cyb
 - 🖥 **System Administration:** System maintenance, troubleshooting, and process optimization  
 - 🔧 **Operating Systems:** Linux, Windows  
 - 📈 **Version Control & Collaboration:** Git, GitHub  
-- 📚 **Currently Learning:** Advanced security protocols, DevOps tools (Jenkins, Docker, Kubernetes), DSA  
+- 📚 **Currently Learning:** Advanced security protocols, DevOps tools (Jenkins, Docker, Kubernetes)
 - 👯 **Looking to Collaborate** on Cybersecurity, Networking, and Software Development Projects  
 - 📫 **Let's Connect!** → [Email Me](mailto:abhishekkumarpatel.ac.in2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-patel-917ab3225/)  
 
@@ -33,6 +33,12 @@ I’m a **final-year B.Tech student** specializing in **Computer Science and Cyb
 - Used **QR code generation for quick server access**, enhancing user experience.  
 - **Tech Stack:** Python, HTTP Server, QR Code Generation, Socket Programming  
 
+#### **Weather Dashboard Application**  
+- Designed a **real-time weather dashboard** using OpenWeatherMap API.  
+- Integrated **MySQL database** to store weather details.  
+- Built a **Tkinter-based GUI** for user interaction.  
+- **Tech Stack:** Python, MySQL, Tkinter, OpenWeatherMap API  
+
 ---
 
 ### 📊 GitHub Stats:
@@ -40,6 +46,20 @@ I’m a **final-year B.Tech student** specializing in **Computer Science and Cyb
 
 ---
 
+### 📌 Additional Information:
+- 🔭 **I’m currently working on:** Enhancing cybersecurity measures for secure file-sharing applications.  
+- 👯 **I’m looking to collaborate on:** Open-source security and networking projects.  
+- 🤝 **I’m looking for help with:** Advanced networking protocols and cloud security.  
+- 🌱 **I’m currently learning:** Docker, Kubernetes, and DevOps best practices.  
+- 💬 **Ask me about:** Python, Networking, and Security.  
+- 📫 **How to reach me:** [Email](mailto:abhishekkumarpatel.ac.in2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-patel-917ab3225/)  
+- 👨‍💻 **All of my projects are available at:** [GitHub](https://github.com/abhishekkumarpatel)  
+- 📝 **I regularly write articles on:** Cybersecurity and DevOps.  
+- 📄 **Know about my experiences:** 
+- ⚡ **Fun fact:** I enjoy solving cybersecurity CTF challenges.  
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=abhishekkumarpatel&icon=0&color=0)](https://visitcount.itsvg.in)  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
